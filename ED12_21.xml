@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NTC_PUBLICATION xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml/3.2" xsi:noNamespaceSchemaLocation="ED12_21.xsd">
+  <TITLE>NEW ZEALAND NOTICES TO MARINERS</TITLE>
+  <PUBLISHED_FILENAME>N:\temp\Jenn\NTM work\ED12_21.xml</PUBLISHED_FILENAME>
+  <PUBLISH_DATE>2021-06-11</PUBLISH_DATE>
+  <EDITION>12</EDITION>
+  <SECTION_LIST>
+    <SECTION_LIST_ITEM>
+      <NM_FRONT_PAGE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <NAME>Front Page</NAME>
+      </NM_FRONT_PAGE>
+    </SECTION_LIST_ITEM>
+    <SECTION_LIST_ITEM>
+      <NM_GEN_SECI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <NAME>Explanatory Notes</NAME>
+        <SECTION_NUMBER>I</SECTION_NUMBER>
+      </NM_GEN_SECI>
+    </SECTION_LIST_ITEM>
+    <SECTION_LIST_ITEM>
+      <NM_MISC_SECTION xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <NAME>Miscellaneous Notices</NAME>
+        <SECTION_NUMBER>II </SECTION_NUMBER>
+        <SECTION_CONTENT_LIST>
+          <SECTION_CONTENT_LIST_ITEM>
+            <NM_PNC_PRD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <NAME>Timaru Paper Chart New Edition</NAME>
+              <NZ_AUTHORITY>New Zealand Hydrographic Authority</NZ_AUTHORITY>
+              <HITS_NUMBER>HITS 6422/119</HITS_NUMBER>
+              <SECTION_CONTENT_LIST>
+                <SECTION_CONTENT_LIST_ITEM>
+                  <NM_PNC_NEPUB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <INSTRUCTION_LIST>
+                      <INSTRUCTION_LIST_ITEM>
+                        <NM_MISC_INSTRUCT_PNCNEP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                          <NZ_CHART_REMARKS>
+                            <P>New edition incorporating updates to aids to navigation, new survey data, and port development.</P>
+                          </NZ_CHART_REMARKS>
+                          <NZ_CHART_PUB>June 2021</NZ_CHART_PUB>
+                          <INSTRUCTION_PANEL_LIST>
+                            <INSTRUCTION_PANEL_LIST_ITEM>
+                              <PPRPAN id="2751"/>
+                            </INSTRUCTION_PANEL_LIST_ITEM>
+                          </INSTRUCTION_PANEL_LIST>
+                        </NM_MISC_INSTRUCT_PNCNEP>
+                      </INSTRUCTION_LIST_ITEM>
+                    </INSTRUCTION_LIST>
+                  </NM_PNC_NEPUB>
+                </SECTION_CONTENT_LIST_ITEM>
+                <SECTION_CONTENT_LIST_ITEM>
+                  <NM_PNC_CPW xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <INSTRUCTION_LIST>
+                      <INSTRUCTION_LIST_ITEM>
+                        <NM_MISC_INSTRUCT_PNCPW xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                          <CHART_LIST>
+                            <CHART>
+                              <CHART_TITLE>Approaches to Timaru</CHART_TITLE>
+                              <CHART_NUM>NZ6422</CHART_NUM>
+                            </CHART>
+                          </CHART_LIST>
+                          <NZ_CHART_PUB>June 2016</NZ_CHART_PUB>
+                        </NM_MISC_INSTRUCT_PNCPW>
+                      </INSTRUCTION_LIST_ITEM>
+                    </INSTRUCTION_LIST>
+                  </NM_PNC_CPW>
+                </SECTION_CONTENT_LIST_ITEM>
+              </SECTION_CONTENT_LIST>
+            </NM_PNC_PRD>
+          </SECTION_CONTENT_LIST_ITEM>
+          <SECTION_CONTENT_LIST_ITEM>
+            <NM_BSB_PRD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <NM_CONTENT_COMP>
+                <NM_CONTENT>
+                  <P>From 11 June 2021, the NZ<EM>Mariner</EM> BSB cumulative update file for April 2021 will be available from the LINZ website: <A href="https://www.linz.govt.nz/sea/charts/nzmariner-official-raster-navigational-charts-rncs">https://www.linz.govt.nz/sea/charts/nzmariner-official-raster-navigational-charts-rncs</A>.</P>
+                  <P><BR/>NZ<EM>Mariner</EM> Raster Navigational Charts (RNCs) can be used only in conjunction with compatible viewing software called Electronic Charting Systems (ECS).</P>
+                  <P><BR/>For compliance with New Zealand legal requirements for nautical charts and publications please refer to Maritime Rules Part 25, available from the Maritime New Zealand website: <A href="https://www.maritimenz.govt.nz/rules/part-25/">https://www.maritimenz.govt.nz/rules/part-25/</A>.</P>
+                  <P><BR/>Further details are included in the Annual New Zealand Notices to Mariners, No.1 which can be found in the New Zealand Nautical Almanac (NZ 204) and on the LINZ website: <A href="https://www.linz.govt.nz/sea/nautical-information/new-zealand-nautical-almanac-nz204">https://www.linz.govt.nz/sea/nautical-information/new-zealand-nautical-almanac-nz204</A>.</P>
+                  <P> </P>
+                  <P>LINZ is planning to withdraw its NZ Mariner product from December 2021. If you have feedback or questions about this please let us know by emailing <A href="mailto:Hydro@linz.govt.nz">Hydro@linz.govt.nz</A>  Subject: NZ Mariner Withdrawal</P>
+                </NM_CONTENT>
+              </NM_CONTENT_COMP>
+              <NM_RNC_LIST>BSB_Update</NM_RNC_LIST>
+              <NZ_AUTHORITY>New Zealand Hydrographic Authority</NZ_AUTHORITY>
+              <HITS_NUMBER>HITS -/135</HITS_NUMBER>
+            </NM_BSB_PRD>
+          </SECTION_CONTENT_LIST_ITEM>
+          <SECTION_CONTENT_LIST_ITEM>
+            <NM_ENC_PRD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <SECTION_CONTENT_LIST>
+                <SECTION_CONTENT_LIST_ITEM>
+                  <NM_ENC_PUB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <HITS_NUMBER>HITS 7655/1</HITS_NUMBER>
+                    <INSTRUCTION_LIST>
+                      <INSTRUCTION_LIST_ITEM>
+                        <NM_MISC_INSTRUCT_ENC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                          <ENC_NAME>NZ576551</ENC_NAME>
+                          <REGION>South Island - West Coast - Te Puaitaha / Breaksea Sound and Tamatea / Dusky Sound</REGION>
+                          <NZ_CHART_PUB>June 2021</NZ_CHART_PUB>
+                        </NM_MISC_INSTRUCT_ENC>
+                      </INSTRUCTION_LIST_ITEM>
+                    </INSTRUCTION_LIST>
+                  </NM_ENC_PUB>
+                </SECTION_CONTENT_LIST_ITEM>
+                <SECTION_CONTENT_LIST_ITEM>
+                  <NM_ENCPW xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <INSTRUCTION_LIST>
+                      <INSTRUCTION_LIST_ITEM>
+                        <NM_MISC_INSTRUCT_ENCPW xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                          <ENC_NAME>NZ507655</ENC_NAME>
+                          <ENC_NEW_EDITION>NZ576551</ENC_NEW_EDITION>
+                          <NZ_CHART_PUB>February 2011</NZ_CHART_PUB>
+                        </NM_MISC_INSTRUCT_ENCPW>
+                      </INSTRUCTION_LIST_ITEM>
+                      <INSTRUCTION_LIST_ITEM>
+                        <NM_MISC_INSTRUCT_ENCPW xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                          <ENC_NAME>NZ507656</ENC_NAME>
+                          <ENC_NEW_EDITION>NZ576551</ENC_NEW_EDITION>
+                          <NZ_CHART_PUB>March 2011</NZ_CHART_PUB>
+                        </NM_MISC_INSTRUCT_ENCPW>
+                      </INSTRUCTION_LIST_ITEM>
+                    </INSTRUCTION_LIST>
+                  </NM_ENCPW>
+                </SECTION_CONTENT_LIST_ITEM>
+              </SECTION_CONTENT_LIST>
+            </NM_ENC_PRD>
+          </SECTION_CONTENT_LIST_ITEM>
+        </SECTION_CONTENT_LIST>
+      </NM_MISC_SECTION>
+    </SECTION_LIST_ITEM>
+    <SECTION_LIST_ITEM>
+      <NM_GEN_SECIII xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <NAME>General Notices</NAME>
+        <SECTION_NUMBER>III</SECTION_NUMBER>
+      </NM_GEN_SECIII>
+    </SECTION_LIST_ITEM>
+    <SECTION_LIST_ITEM>
+      <NM_GEN_SECIII xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <NAME>General Notice - Niue Entry Restrictions - reworded</NAME>
+        <SECTION_NUMBER>III</SECTION_NUMBER>
+        <NM_CONTENT_COMP>
+          <TITLE>SOUTH PACIFIC OCEAN - NIUE ENTRY RESTRICTIONS</TITLE>
+          <NM_CONTENT>
+            <P>Entry to ALL yachts, cruise ships, and other sea vessels is NOT permitted with an exception to freight vessels, and vessels in emergency and distress.</P>
+            <P>Government of Niue<BR/>HITS 845/25</P>
+          </NM_CONTENT>
+        </NM_CONTENT_COMP>
+      </NM_GEN_SECIII>
+    </SECTION_LIST_ITEM>
+    <SECTION_LIST_ITEM>
+      <NM_GEN_SECIII xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <NAME>General Notice - Tonga Entry Restrictions</NAME>
+        <SECTION_NUMBER>III</SECTION_NUMBER>
+        <NM_CONTENT_COMP>
+          <TITLE>SOUTH PACIFIC OCEAN - KINGDOM OF TONGA - TONGA ENTRY RESTRICTIONS</TITLE>
+          <NM_CONTENT>
+            <P>1. Marine and Ports, Ministry of Infrastructure together with Ministry of Health advises that all vessels entering Tonga will be required to use Tongatapu as the first port of entry for border screening prior to re-routing to outer islands.<BR/></P>
+            <P>2. Maritime Security Committee advises that the security of all ports in Tonga is heightened to Security Level 2, in which additional preventative and protective measures are to be implemented.<BR/></P>
+            <P>3. Be advised that all international cruise ships and yachts scheduled to arrive after 19 March 2020 shall not be granted entry into Tonga until further notice.</P>
+            <P>4. Foreign vessels wishing to transit Tongan waters requiring immediate assistance must contact Nuku'alofa radio for advice via HF &amp; VHF.</P>
+            <P>Kingdom of Tonga - Ministry of Infrastructure<BR/>HITS 82/1051</P>
+            <P> </P>
+          </NM_CONTENT>
+        </NM_CONTENT_COMP>
+      </NM_GEN_SECIII>
+    </SECTION_LIST_ITEM>
+    <SECTION_LIST_ITEM>
+      <NM_GEN_SECIII xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <NAME>General Notice - NEW ZEALAND -  MARITIME BORDER ENTRY RESTRICTIONS</NAME>
+        <SECTION_NUMBER>III</SECTION_NUMBER>
+        <NM_CONTENT_COMP>
+          <TITLE>NEW ZEALAND -  MARITIME BORDER ENTRY RESTRICTIONS</TITLE>
+          <NM_CONTENT>
+            <P>1. The New Zealand Government for the purposes of preventing, and limiting the risk of an outbreak, or the spread, of COVID-19 is <BR/>(a) restricting which ships may arrive in New Zealand; and <BR/>(b) putting in place isolation or quarantine requirements for people who arrive in New Zealand by sea.</P>
+            <P>2. The right of innocent passage through the territorial sea, and transit passage through straits used for international navigation is unaffected.</P>
+            <P>3. Vessels are not permitted entry to New Zealand unless exempted by the Maritime Border order. A cargo ship that is arriving in New Zealand for the purpose of loading or unloading cargo is an example of one such exemption. New Zealand flagged vessels with New Zealand crews are allowed entry but must adhere to isolation and customs requirements.</P>
+            <P>4. The current restrictions are detailed in the “COVID-19 Public Health Response (Maritime Border) Order (No2) 2020” which is available at: <A href="http://legislation.govt.nz/regulation/public/2020/0240/latest/LMS403466.html#LMS403543">http://legislation.govt.nz/regulation/public/2020/0240/latest/LMS403466.html#LMS403543</A>.</P>
+            <P>5. These maritime border restrictions remain in force until further notice and may be amended or updated at short notice. It is therefore advisable to access the latest information, which includes advice on when and how to apply for exemptions, on the Ministry of Health’s website here: <A href="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-information-specific-audiences/covid-19-resources-border-sector/covid-19-maritime-sector#exemption">https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-information-specific-audiences/covid-19-resources-border-sector/covid-19-maritime-sector#exemption</A>.</P>
+            <P>6. For those vessels that are permitted entry to New Zealand the New Zealand Government requires an Extended Notice of Arrival (ENA) of intent to travel to New Zealand, a minimum of 168 hours (seven days) prior to arrival. This is an additional requirement to completing the Customs Advance Notice of Arrive (ANA) document 48 hour before arriving. The ENA form is found at: <A href="https://www.customs.govt.nz/globalassets/documents/forms/extended-notice-of-arrival-form.pdf">https://www.customs.govt.nz/globalassets/documents/forms/extended-notice-of-arrival-form.pdf</A>.</P>
+            <P>7. The New Zealand Customs Service may notify arriving vessels which first port of arrival  is to be used, and may require voyage plans to be adjusted accordingly.</P>
+            <P>8. Masters and skippers of vessels should note that persons seeking to disembark, (from vessels that are permitted entry), may only do so subject to meeting specific criteria found in the Order.</P>
+            <P>Maritime New Zealand<BR/>HITS -/108/2</P>
+          </NM_CONTENT>
+        </NM_CONTENT_COMP>
+      </NM_GEN_SECIII>
+    </SECTION_LIST_ITEM>
+    <SECTION_LIST_ITEM>
+      <NM_CHART_SECTION xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <NAME>Notices to Mariners</NAME>
+        <SECTION_NUMBER>IV </SECTION_NUMBER>
+        <SECTION_CONTENT_LIST>
+          <SECTION_CONTENT_LIST_ITEM>
+            <NM_CHART_NTC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <PUBLISH_NUMBER>39/21</PUBLISH_NUMBER>
+              <NZ_LOCALITY>NEW ZEALAND - North Island - West Coast</NZ_LOCALITY>
+              <VICINITY>Kaipara Harbour</VICINITY>
+              <SUBJECT>Aids to Navigation</SUBJECT>
+              <NZ_AUTHORITY>Auckland Transport</NZ_AUTHORITY>
+              <HITS_NUMBER>HITS 4265/1057</HITS_NUMBER>
+              <INSTRUCTION_LIST>
+                <INSTRUCTION_LIST_ITEM>
+                  <NM_CHARTINSTRUCT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <CHART_LIST>
+                      <CHART>
+                        <CHART_TITLE>Kaipara Harbour</CHART_TITLE>
+                        <CHART_NUM>NZ4265</CHART_NUM>
+                        <EDITION_DATE>20180401</EDITION_DATE>
+                        <LAST_CORRECTION>2021035</LAST_CORRECTION>
+                        <PANEL>
+                          <PANEL_NAME>Kaipara Harbour</PANEL_NAME>
+                          <PANEL_NUM>1</PANEL_NUM>
+                          <CHART_SCALE>75000</CHART_SCALE>
+                          <PANEL_LIMITS>
+                            <PANEL_LIMIT_MINY>36.683333300S</PANEL_LIMIT_MINY>
+                            <PANEL_LIMIT_MINX>173.916666700E</PANEL_LIMIT_MINX>
+                            <PANEL_LIMIT_MAXY>36.000000000S</PANEL_LIMIT_MAXY>
+                            <PANEL_LIMIT_MAXX>174.458333300E</PANEL_LIMIT_MAXX>
+                          </PANEL_LIMITS>
+                        </PANEL>
+                      </CHART>
+                    </CHART_LIST>
+                    <POSITION_LIST>
+                      <POSITION>
+                        <LATITUDE>36.402524669S</LATITUDE>
+                        <LONGITUDE>174.205894027E</LONGITUDE>
+                        <COORDINATE>
+                          <gml:Point>
+                            <gml:pos>174.205894 -36.4025247</gml:pos>
+                          </gml:Point>
+                        </COORDINATE>
+                      </POSITION>
+                    </POSITION_LIST>
+                    <FOID_LIST>
+                      <FOID>NZ 0006874937 00001</FOID>
+                    </FOID_LIST>
+                    <ACTION>Delete</ACTION>
+                    <DESCRIPTION>
+                      <EM>PA</EM>
+                      <FONT size="5" face="UKHOSymbols"></FONT>
+                      <BR/>
+                      <EM>      Y</EM>
+                    </DESCRIPTION>
+                    <INSTRUCTION_PANEL_LIST>
+                      <INSTRUCTION_PANEL_LIST_ITEM>
+                        <PPRPAN id="5827"/>
+                      </INSTRUCTION_PANEL_LIST_ITEM>
+                    </INSTRUCTION_PANEL_LIST>
+                  </NM_CHARTINSTRUCT>
+                </INSTRUCTION_LIST_ITEM>
+                <INSTRUCTION_LIST_ITEM>
+                  <NM_CHARTINSTRUCT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <CHART_LIST>
+                      <CHART>
+                        <CHART_TITLE>Kaipara Harbour</CHART_TITLE>
+                        <CHART_NUM>NZ4265</CHART_NUM>
+                        <EDITION_DATE>20180401</EDITION_DATE>
+                        <LAST_CORRECTION>2021035</LAST_CORRECTION>
+                        <PANEL>
+                          <PANEL_NAME>Kaipara Harbour</PANEL_NAME>
+                          <PANEL_NUM>1</PANEL_NUM>
+                          <CHART_SCALE>75000</CHART_SCALE>
+                          <PANEL_LIMITS>
+                            <PANEL_LIMIT_MINY>36.683333300S</PANEL_LIMIT_MINY>
+                            <PANEL_LIMIT_MINX>173.916666700E</PANEL_LIMIT_MINX>
+                            <PANEL_LIMIT_MAXY>36.000000000S</PANEL_LIMIT_MAXY>
+                            <PANEL_LIMIT_MAXX>174.458333300E</PANEL_LIMIT_MAXX>
+                          </PANEL_LIMITS>
+                        </PANEL>
+                      </CHART>
+                    </CHART_LIST>
+                    <POSITION_LIST>
+                      <POSITION>
+                        <LATITUDE>36.602060572S</LATITUDE>
+                        <LONGITUDE>174.386356442E</LONGITUDE>
+                        <COORDINATE>
+                          <gml:Point>
+                            <gml:pos>174.3863564 -36.6020606</gml:pos>
+                          </gml:Point>
+                        </COORDINATE>
+                      </POSITION>
+                    </POSITION_LIST>
+                    <FOID_LIST>
+                      <FOID>NZ 0006874926 00001</FOID>
+                    </FOID_LIST>
+                    <ACTION>Delete</ACTION>
+                    <DESCRIPTION>
+                      <FONT size="5" face="UKHOSymbols"></FONT>
+                      <BR/>
+                      <EM> G</EM>
+                    </DESCRIPTION>
+                    <INSTRUCTION_PANEL_LIST>
+                      <INSTRUCTION_PANEL_LIST_ITEM>
+                        <PPRPAN id="5827"/>
+                      </INSTRUCTION_PANEL_LIST_ITEM>
+                    </INSTRUCTION_PANEL_LIST>
+                  </NM_CHARTINSTRUCT>
+                </INSTRUCTION_LIST_ITEM>
+              </INSTRUCTION_LIST>
+            </NM_CHART_NTC>
+          </SECTION_CONTENT_LIST_ITEM>
+          <SECTION_CONTENT_LIST_ITEM>
+            <NM_CHART_NTC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <PUBLISH_NUMBER>40/21</PUBLISH_NUMBER>
+              <NZ_LOCALITY>NEW ZEALAND - North Island - East Coast</NZ_LOCALITY>
+              <VICINITY>Tauranga Harbour - Katikati Entrance</VICINITY>
+              <SUBJECT>Aids to Navigation - Certain Copies Only</SUBJECT>
+              <NM_NOTE>This notice affects certain copies of NZ 5411 only. It is a repeat of notice NZ 35/20 which may not have been applied to all copies in circulation.</NM_NOTE>
+              <NZ_AUTHORITY>Bay of Plenty Regional Council</NZ_AUTHORITY>
+              <HITS_NUMBER>HITS 5411/156</HITS_NUMBER>
+              <INSTRUCTION_LIST>
+                <INSTRUCTION_LIST_ITEM>
+                  <NM_CHARTINSTRUCT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <CHART_LIST>
+                      <CHART>
+                        <CHART_TITLE>Tauranga Harbour - Katikati Entrance to Mount Maunganui</CHART_TITLE>
+                        <CHART_NUM>NZ5411</CHART_NUM>
+                        <EDITION_DATE>20150601</EDITION_DATE>
+                        <LAST_CORRECTION>2021037</LAST_CORRECTION>
+                        <PANEL>
+                          <PANEL_NUM>2</PANEL_NUM>
+                          <HORIZ_DATUM>WG84</HORIZ_DATUM>
+                          <CHART_SCALE>40000</CHART_SCALE>
+                          <PANEL_LIMITS>
+                            <PANEL_LIMIT_MINY>37.585000000S</PANEL_LIMIT_MINY>
+                            <PANEL_LIMIT_MINX>175.906666900E</PANEL_LIMIT_MINX>
+                            <PANEL_LIMIT_MAXY>37.410000000S</PANEL_LIMIT_MAXY>
+                            <PANEL_LIMIT_MAXX>176.195000000E</PANEL_LIMIT_MAXX>
+                          </PANEL_LIMITS>
+                        </PANEL>
+                      </CHART>
+                    </CHART_LIST>
+                    <POSITION_LIST>
+                      <POSITION>
+                        <LATITUDE>37.435699990S</LATITUDE>
+                        <LONGITUDE>176.060099998E</LONGITUDE>
+                      </POSITION>
+                    </POSITION_LIST>
+                    <FOID_LIST>
+                      <FOID>NZ 0008313962 00001</FOID>
+                    </FOID_LIST>
+                    <ACTION>Insert</ACTION>
+                    <DESCRIPTION>
+                      <P>
+                        <FONT color="#ff0000">NZ5411_ODAS.tif</FONT>
+                      </P>
+                    </DESCRIPTION>
+                    <ATTACHMENT_LIST>
+                      <ATTACHMENT>
+                        <FILENAME>NZ5411_ODAS.tif</FILENAME>
+                        <NM_IMG_TYPE>Others</NM_IMG_TYPE>
+                      </ATTACHMENT>
+                    </ATTACHMENT_LIST>
+                  </NM_CHARTINSTRUCT>
+                </INSTRUCTION_LIST_ITEM>
+                <INSTRUCTION_LIST_ITEM>
+                  <NM_CHARTINSTRUCT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <CHART_LIST>
+                      <CHART>
+                        <CHART_TITLE>Tauranga Harbour - Katikati Entrance to Mount Maunganui</CHART_TITLE>
+                        <CHART_NUM>NZ5411</CHART_NUM>
+                        <EDITION_DATE>20150601</EDITION_DATE>
+                        <LAST_CORRECTION>2019068</LAST_CORRECTION>
+                        <PANEL>
+                          <PANEL_NUM>2</PANEL_NUM>
+                          <HORIZ_DATUM>WG84</HORIZ_DATUM>
+                          <CHART_SCALE>40000</CHART_SCALE>
+                          <PANEL_LIMITS>
+                            <PANEL_LIMIT_MINY>37.585000000S</PANEL_LIMIT_MINY>
+                            <PANEL_LIMIT_MINX>175.906666900E</PANEL_LIMIT_MINX>
+                            <PANEL_LIMIT_MAXY>37.410000000S</PANEL_LIMIT_MAXY>
+                            <PANEL_LIMIT_MAXX>176.195000000E</PANEL_LIMIT_MAXX>
+                          </PANEL_LIMITS>
+                        </PANEL>
+                      </CHART>
+                    </CHART_LIST>
+                    <POSITION_LIST>
+                      <POSITION>
+                        <TAG>(a)</TAG>
+                        <LATITUDE>37.494516687S</LATITUDE>
+                        <LONGITUDE>175.973333304E</LONGITUDE>
+                      </POSITION>
+                    </POSITION_LIST>
+                    <FOID_LIST>
+                      <FOID>NZ 0000236180 00001</FOID>
+                    </FOID_LIST>
+                    <ACTION>Insert</ACTION>
+                    <DESCRIPTION><FONT size="5" face="UKHOSymbols"></FONT>Fl(2+1)G, MW<BR/>GRG</DESCRIPTION>
+                  </NM_CHARTINSTRUCT>
+                </INSTRUCTION_LIST_ITEM>
+                <INSTRUCTION_LIST_ITEM>
+                  <NM_CHARTINSTRUCT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <CHART_LIST>
+                      <CHART>
+                        <CHART_TITLE>Tauranga Harbour - Katikati Entrance to Mount Maunganui</CHART_TITLE>
+                        <CHART_NUM>NZ5411</CHART_NUM>
+                        <EDITION_DATE>20150601</EDITION_DATE>
+                        <LAST_CORRECTION>2019068</LAST_CORRECTION>
+                        <PANEL>
+                          <PANEL_NUM>1</PANEL_NUM>
+                          <HORIZ_DATUM>WG84</HORIZ_DATUM>
+                          <CHART_SCALE>40,000</CHART_SCALE>
+                          <PANEL_LIMITS>
+                            <PANEL_LIMIT_MINY>37.730000000S</PANEL_LIMIT_MINY>
+                            <PANEL_LIMIT_MINX>175.955000000E</PANEL_LIMIT_MINX>
+                            <PANEL_LIMIT_MAXY>37.555000000S</PANEL_LIMIT_MAXY>
+                            <PANEL_LIMIT_MAXX>176.243333300E</PANEL_LIMIT_MAXX>
+                          </PANEL_LIMITS>
+                        </PANEL>
+                      </CHART>
+                    </CHART_LIST>
+                    <POSITION_LIST>
+                      <POSITION>
+                        <LATITUDE>37.4951629S</LATITUDE>
+                        <LONGITUDE>175.9735376E</LONGITUDE>
+                        <POS_DESCRIPTION>close (a) above</POS_DESCRIPTION>
+                      </POSITION>
+                    </POSITION_LIST>
+                    <ACTION>Delete</ACTION>
+                    <DESCRIPTION><FONT size="5" face="UKHOSymbols"></FONT>Fl(2+1)G, MW3<BR/>GRG</DESCRIPTION>
+                  </NM_CHARTINSTRUCT>
+                </INSTRUCTION_LIST_ITEM>
+              </INSTRUCTION_LIST>
+            </NM_CHART_NTC>
+          </SECTION_CONTENT_LIST_ITEM>
+        </SECTION_CONTENT_LIST>
+      </NM_CHART_SECTION>
+    </SECTION_LIST_ITEM>
+    <SECTION_LIST_ITEM>
+      <NM_CAT_SECTION xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <NAME>Corrections to New Zealand Publications</NAME>
+        <SECTION_NUMBER>V</SECTION_NUMBER>
+      </NM_CAT_SECTION>
+    </SECTION_LIST_ITEM>
+    <SECTION_LIST_ITEM>
+      <NM_GEN_SECVI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <NAME>Corrections to Admiralty Publications</NAME>
+        <SECTION_NUMBER>VI</SECTION_NUMBER>
+      </NM_GEN_SECVI>
+    </SECTION_LIST_ITEM>
+    <SECTION_LIST_ITEM>
+      <NM_GEN_SECVII xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <NAME>Navigational Warnings</NAME>
+        <SECTION_NUMBER>VII </SECTION_NUMBER>
+      </NM_GEN_SECVII>
+    </SECTION_LIST_ITEM>
+    <SECTION_LIST_ITEM>
+      <NM_GEN_SEC_HYD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <NAME>Hydrographic Note</NAME>
+      </NM_GEN_SEC_HYD>
+    </SECTION_LIST_ITEM>
+  </SECTION_LIST>
+  <AFFECTED_CHART_LIST>
+    <PPRCHT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <CHTNUM>NZ6422</CHTNUM>
+      <chprid>LINZ_BSB-v3.0</chprid>
+      <USRNAM>ghodkinson</USRNAM>
+      <CTDATE>20120128</CTDATE>
+      <CHTYPE>1</CHTYPE>
+      <SAREA1>New Zealand</SAREA1>
+      <NREGN1>South Island</NREGN1>
+      <NREGN2>East Coast</NREGN2>
+      <CTITL1>Approaches to Timaru</CTITL1>
+      <PUBCON>New Zealand</PUBCON>
+      <PARCON>At new edition, export 1016dpi tif with BSB presentation to give to UKHO.</PARCON>
+      <PUBDAT>19900701</PUBDAT>
+      <EDNUMB>20210601</EDNUMB>
+      <EDDATE>20210601</EDDATE>
+      <LTSTNM>0</LTSTNM>
+      <CHTCOM>LINZ-v3.0</CHTCOM>
+      <PRODGRP>1</PRODGRP>
+      <PRODTMPLT>Paper Chart / Paper Chart</PRODTMPLT>
+      <chtlnk/>
+      <chtsts>Layout</chtsts>
+      <TYPE_NAME>Paper Chart</TYPE_NAME>
+      <VERSION>1.0</VERSION>
+      <external>0</external>
+      <CHART_SHEET_LIST>
+        <CHART_SHEET_LIST_ITEM>
+          <PPRSHT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <TSHEET>0</TSHEET>
+            <PPSIZE>28</PPSIZE>
+            <PWIDTH>1100</PWIDTH>
+            <PHEIGH>720</PHEIGH>
+            <MARGNL>0</MARGNL>
+            <MARGNR>0</MARGNR>
+            <MARGNT>0</MARGNT>
+            <MARGNB>0</MARGNB>
+            <LAYOUT>1</LAYOUT>
+            <SHEET1>Approaches to Timaru</SHEET1>
+            <SHEET2>Title 2</SHEET2>
+            <CMMNTS>This is a sheet</CMMNTS>
+            <SHEET_PANEL_LIST>
+              <SHEET_PANEL_LIST_ITEM>
+                <PPRPAN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="2747">
+                  <PANNAM>Timaru Harbour</PANNAM>
+                  <GRTINT>0.5</GRTINT>
+                  <PANORD>2</PANORD>
+                  <frcdsp>False</frcdsp>
+                  <PANNUM>2</PANNUM>
+                  <PANPOS>60,35</PANPOS>
+                  <PSCALE>7000</PSCALE>
+                  <PANTYP>3</PANTYP>
+                  <PANTIT>Timaru Harbour</PANTIT>
+                  <DEPUNT>MR</DEPUNT>
+                  <DEPDAT>ALAT</DEPDAT>
+                  <HGHTUN>MR</HGHTUN>
+                  <HGHTDA>MHWS</HGHTDA>
+                  <sdgfc>SGSL</sdgfc>
+                  <sdgsz>1.45</sdgsz>
+                  <annoid>LINZ_Annotations v3.0</annoid>
+                  <CRS>PROJCS["WG84 / TRANSVERSE MERCATOR",
+    GEOGCS["WG84",
+        DATUM["WG84",
+            SPHEROID["WG84",6378137,298.2572201434241],
+            TOWGS84[0,0,0,0,0,0,0]],
+        PRIMEM["Greenwich",0,
+            AUTHORITY["EPSG","8901"]],
+        UNIT["degree (supplier to define representation)",0.0174532925199433,
+            AUTHORITY["EPSG","9122"]]],
+    PROJECTION["Transverse_Mercator"],
+    PARAMETER["latitude_of_origin",0.000000],
+    PARAMETER["central_meridian",171.263250],
+    PARAMETER["scale_factor",0.999900],
+    PARAMETER["false_easting",0],
+    PARAMETER["false_northing",0],
+    UNIT["metre",1,
+        AUTHORITY["EPSG","9001"]]]</CRS>
+                  <PROFILE>7</PROFILE>
+                  <sndrnd>IHO</sndrnd>
+                  <sourceCRS_wkt>GEOGCS["WGS 84",
+    DATUM["World Geodetic System 1984",
+        SPHEROID["WGS 84",6378137,298.2572235629972,
+            AUTHORITY["EPSG","7030"]],
+        AUTHORITY["EPSG","6326"]],
+    PRIMEM["Greenwich",0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["degree (supplier to define representation)",0.0174532925199433,
+        AUTHORITY["EPSG","9122"]],
+    AUTHORITY["EPSG","4326"]]</sourceCRS_wkt>
+                  <sourceCRS_description>Default HPD source CRS</sourceCRS_description>
+                  <BOUNDARY_MIN>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-44.405 171.2421669</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MIN>
+                  <BOUNDARY_MAX>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-44.365 171.2843331</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MAX>
+                </PPRPAN>
+              </SHEET_PANEL_LIST_ITEM>
+              <SHEET_PANEL_LIST_ITEM>
+                <PPRPAN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="2749">
+                  <PANNAM>NTM Panel - Timaru Harbour</PANNAM>
+                  <frcdsp>False</frcdsp>
+                  <PANNUM>4</PANNUM>
+                  <PANPOS>60,35</PANPOS>
+                  <PSCALE>7000</PSCALE>
+                  <DEPUNT>M</DEPUNT>
+                  <DEPDAT>Approx LAT</DEPDAT>
+                  <HGHTUN>M</HGHTUN>
+                  <HGHTDA>MHWS</HGHTDA>
+                  <sdgfc>SGSL</sdgfc>
+                  <sdgsz>1.45</sdgsz>
+                  <annoid>LINZ_Annotations</annoid>
+                  <CRS>PROJCS["WG84 / TRANSVERSE MERCATOR",
+    GEOGCS["WG84",
+        DATUM["WG84",
+            SPHEROID["WG84",6378137,298.2572201434241],
+            TOWGS84[0,0,0,0,0,0,0]],
+        PRIMEM["Greenwich",0,
+            AUTHORITY["EPSG","8901"]],
+        UNIT["degree (supplier to define representation)",0.0174532925199433,
+            AUTHORITY["EPSG","9122"]]],
+    PROJECTION["Transverse_Mercator"],
+    PARAMETER["latitude_of_origin",0.000000],
+    PARAMETER["central_meridian",171.263250],
+    PARAMETER["scale_factor",0.999900],
+    PARAMETER["false_easting",0],
+    PARAMETER["false_northing",0],
+    UNIT["metre",1,
+        AUTHORITY["EPSG","9001"]]]</CRS>
+                  <PROFILE>7</PROFILE>
+                  <sndrnd>Default</sndrnd>
+                  <sourceCRS_wkt>GEOGCS["WGS 84",
+    DATUM["World Geodetic System 1984",
+        SPHEROID["WGS 84",6378137,298.2572235629972,
+            AUTHORITY["EPSG","7030"]],
+        AUTHORITY["EPSG","6326"]],
+    PRIMEM["Greenwich",0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["degree (supplier to define representation)",0.0174532925199433,
+        AUTHORITY["EPSG","9122"]],
+    AUTHORITY["EPSG","4326"]]</sourceCRS_wkt>
+                  <sourceCRS_description>Default HPD source CRS</sourceCRS_description>
+                  <BOUNDARY_MIN>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-44.405 171.2421669</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MIN>
+                  <BOUNDARY_MAX>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-44.365 171.2843331</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MAX>
+                </PPRPAN>
+              </SHEET_PANEL_LIST_ITEM>
+              <SHEET_PANEL_LIST_ITEM>
+                <PPRPAN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="2751">
+                  <PANNAM>Approaches to Timaru</PANNAM>
+                  <GRTINT>3</GRTINT>
+                  <PANORD>1</PANORD>
+                  <frcdsp>False</frcdsp>
+                  <PANNUM>1</PANNUM>
+                  <PANPOS>552.056,33.323</PANPOS>
+                  <PSCALE>35000</PSCALE>
+                  <PANTYP>2</PANTYP>
+                  <PANTIT>Approaches to Timaru</PANTIT>
+                  <DEPUNT>MR</DEPUNT>
+                  <DEPDAT>ALAT</DEPDAT>
+                  <HGHTUN>MR</HGHTUN>
+                  <HGHTDA>MHWS</HGHTDA>
+                  <sdgfc>SGSL</sdgfc>
+                  <sdgsz>1.45</sdgsz>
+                  <annoid>LINZ_Annotations v3.0</annoid>
+                  <CRS>PROJCS["WG84 / TRANSVERSE MERCATOR",
+    GEOGCS["WG84",
+        DATUM["WG84",
+            SPHEROID["WG84",6378137,298.2572201434241],
+            TOWGS84[0,0,0,0,0,0,0]],
+        PRIMEM["Greenwich",0,
+            AUTHORITY["EPSG","8901"]],
+        UNIT["degree (supplier to define representation)",0.0174532925199433,
+            AUTHORITY["EPSG","9122"]]],
+    PROJECTION["Transverse_Mercator"],
+    PARAMETER["latitude_of_origin",0.000000],
+    PARAMETER["central_meridian",171.343000],
+    PARAMETER["scale_factor",0.999900],
+    PARAMETER["false_easting",0],
+    PARAMETER["false_northing",0],
+    UNIT["metre",1,
+        AUTHORITY["EPSG","9001"]]]</CRS>
+                  <PROFILE>7</PROFILE>
+                  <sndrnd>IHO</sndrnd>
+                  <sourceCRS_wkt>GEOGCS["WGS 84",
+    DATUM["World Geodetic System 1984",
+        SPHEROID["WGS 84",6378137,298.2572235629972,
+            AUTHORITY["EPSG","7030"]],
+        AUTHORITY["EPSG","6326"]],
+    PRIMEM["Greenwich",0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["degree (supplier to define representation)",0.0174532925199433,
+        AUTHORITY["EPSG","9122"]],
+    AUTHORITY["EPSG","4326"]]</sourceCRS_wkt>
+                  <sourceCRS_description>Default HPD source CRS</sourceCRS_description>
+                  <BOUNDARY_MIN>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-44.4593331 171.2376669</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MIN>
+                  <BOUNDARY_MAX>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-44.2583331 171.4483331</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MAX>
+                </PPRPAN>
+              </SHEET_PANEL_LIST_ITEM>
+              <SHEET_PANEL_LIST_ITEM>
+                <PPRPAN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="2764">
+                  <PANNAM>NTM Panel - Approaches to Timaru</PANNAM>
+                  <frcdsp>False</frcdsp>
+                  <PANNUM>3</PANNUM>
+                  <PANPOS>552.056,33.323</PANPOS>
+                  <PSCALE>35000</PSCALE>
+                  <DEPUNT>M</DEPUNT>
+                  <DEPDAT>Approx LAT</DEPDAT>
+                  <HGHTUN>M</HGHTUN>
+                  <HGHTDA>MHWS</HGHTDA>
+                  <sdgfc>SGSL</sdgfc>
+                  <sdgsz>1.45</sdgsz>
+                  <annoid>LINZ_Annotations</annoid>
+                  <CRS>PROJCS["WG84 / TRANSVERSE MERCATOR",
+    GEOGCS["WG84",
+        DATUM["WG84",
+            SPHEROID["WG84",6378137,298.2572201434241],
+            TOWGS84[0,0,0,0,0,0,0]],
+        PRIMEM["Greenwich",0,
+            AUTHORITY["EPSG","8901"]],
+        UNIT["degree (supplier to define representation)",0.0174532925199433,
+            AUTHORITY["EPSG","9122"]]],
+    PROJECTION["Transverse_Mercator"],
+    PARAMETER["latitude_of_origin",0.000000],
+    PARAMETER["central_meridian",171.343000],
+    PARAMETER["scale_factor",0.999900],
+    PARAMETER["false_easting",0],
+    PARAMETER["false_northing",0],
+    UNIT["metre",1,
+        AUTHORITY["EPSG","9001"]]]</CRS>
+                  <PROFILE>7</PROFILE>
+                  <sndrnd>Default</sndrnd>
+                  <sourceCRS_wkt>GEOGCS["WGS 84",
+    DATUM["World Geodetic System 1984",
+        SPHEROID["WGS 84",6378137,298.2572235629972,
+            AUTHORITY["EPSG","7030"]],
+        AUTHORITY["EPSG","6326"]],
+    PRIMEM["Greenwich",0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["degree (supplier to define representation)",0.0174532925199433,
+        AUTHORITY["EPSG","9122"]],
+    AUTHORITY["EPSG","4326"]]</sourceCRS_wkt>
+                  <sourceCRS_description>Default HPD source CRS</sourceCRS_description>
+                  <BOUNDARY_MIN>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-44.4593331 171.2376669</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MIN>
+                  <BOUNDARY_MAX>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-44.2583331 171.4483331</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MAX>
+                </PPRPAN>
+              </SHEET_PANEL_LIST_ITEM>
+              <SHEET_PANEL_LIST_ITEM>
+                <PPRPAN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="3044">
+                  <PANNAM>Source Data Panel - Timaru Harbour</PANNAM>
+                  <frcdsp>False</frcdsp>
+                  <PANNUM>6</PANNUM>
+                  <PANPOS>557.118,435</PANPOS>
+                  <PSCALE>84000</PSCALE>
+                  <DEPUNT>M</DEPUNT>
+                  <DEPDAT>Approx LAT</DEPDAT>
+                  <HGHTUN>M</HGHTUN>
+                  <HGHTDA>MHWS</HGHTDA>
+                  <sdgfc>SGSL</sdgfc>
+                  <sdgsz>1.45</sdgsz>
+                  <annoid>LINZ_Annotations v3.0</annoid>
+                  <CRS>PROJCS["WG84 / TRANSVERSE MERCATOR",
+    GEOGCS["WG84",
+        DATUM["WG84",
+            SPHEROID["WG84",6378137,298.2572201434241],
+            TOWGS84[0,0,0,0,0,0,0]],
+        PRIMEM["Greenwich",0,
+            AUTHORITY["EPSG","8901"]],
+        UNIT["degree (supplier to define representation)",0.0174532925199433,
+            AUTHORITY["EPSG","9122"]]],
+    PROJECTION["Transverse_Mercator"],
+    PARAMETER["latitude_of_origin",0.000000],
+    PARAMETER["central_meridian",171.263250],
+    PARAMETER["scale_factor",0.999900],
+    PARAMETER["false_easting",0],
+    PARAMETER["false_northing",0],
+    UNIT["metre",1,
+        AUTHORITY["EPSG","9001"]]]</CRS>
+                  <PROFILE>7</PROFILE>
+                  <sndrnd>IHO</sndrnd>
+                  <sourceCRS_wkt>GEOGCS["WGS 84",
+    DATUM["World Geodetic System 1984",
+        SPHEROID["WGS 84",6378137,298.2572235629972,
+            AUTHORITY["EPSG","7030"]],
+        AUTHORITY["EPSG","6326"]],
+    PRIMEM["Greenwich",0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["degree (supplier to define representation)",0.0174532925199433,
+        AUTHORITY["EPSG","9122"]],
+    AUTHORITY["EPSG","4326"]]</sourceCRS_wkt>
+                  <sourceCRS_description>Default HPD source CRS</sourceCRS_description>
+                  <BOUNDARY_MIN>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-44.405 171.242167</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MIN>
+                  <BOUNDARY_MAX>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-44.365 171.2843331</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MAX>
+                </PPRPAN>
+              </SHEET_PANEL_LIST_ITEM>
+              <SHEET_PANEL_LIST_ITEM>
+                <PPRPAN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="3064">
+                  <PANNAM>Source Data Panel - Approaches to Timaru</PANNAM>
+                  <frcdsp>False</frcdsp>
+                  <PANNUM>5</PANNUM>
+                  <PANPOS>597.1,434.9999</PANPOS>
+                  <PSCALE>420000</PSCALE>
+                  <DEPUNT>M</DEPUNT>
+                  <DEPDAT>Approx LAT</DEPDAT>
+                  <HGHTUN>M</HGHTUN>
+                  <HGHTDA>MHWS</HGHTDA>
+                  <sdgfc>SGSL</sdgfc>
+                  <sdgsz>1.45</sdgsz>
+                  <annoid>LINZ_Annotations v3.0</annoid>
+                  <CRS>PROJCS["WG84 / TRANSVERSE MERCATOR",
+    GEOGCS["WG84",
+        DATUM["WG84",
+            SPHEROID["WG84",6378137,298.2572201434241],
+            TOWGS84[0,0,0,0,0,0,0]],
+        PRIMEM["Greenwich",0,
+            AUTHORITY["EPSG","8901"]],
+        UNIT["degree (supplier to define representation)",0.0174532925199433,
+            AUTHORITY["EPSG","9122"]]],
+    PROJECTION["Transverse_Mercator"],
+    PARAMETER["latitude_of_origin",0.000000],
+    PARAMETER["central_meridian",171.343000],
+    PARAMETER["scale_factor",0.999900],
+    PARAMETER["false_easting",0],
+    PARAMETER["false_northing",0],
+    UNIT["metre",1,
+        AUTHORITY["EPSG","9001"]]]</CRS>
+                  <PROFILE>7</PROFILE>
+                  <sndrnd>IHO</sndrnd>
+                  <sourceCRS_wkt>GEOGCS["WGS 84",
+    DATUM["World Geodetic System 1984",
+        SPHEROID["WGS 84",6378137,298.2572235629972,
+            AUTHORITY["EPSG","7030"]],
+        AUTHORITY["EPSG","6326"]],
+    PRIMEM["Greenwich",0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["degree (supplier to define representation)",0.0174532925199433,
+        AUTHORITY["EPSG","9122"]],
+    AUTHORITY["EPSG","4326"]]</sourceCRS_wkt>
+                  <sourceCRS_description>Default HPD source CRS</sourceCRS_description>
+                  <BOUNDARY_MIN>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-44.4593332 171.2376667</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MIN>
+                  <BOUNDARY_MAX>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-44.258333 171.4483331</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MAX>
+                </PPRPAN>
+              </SHEET_PANEL_LIST_ITEM>
+            </SHEET_PANEL_LIST>
+          </PPRSHT>
+        </CHART_SHEET_LIST_ITEM>
+      </CHART_SHEET_LIST>
+    </PPRCHT>
+    <PPRCHT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <CHTNUM>NZ4265</CHTNUM>
+      <chprid>LINZ-v3.0</chprid>
+      <USRNAM>aboehme</USRNAM>
+      <CTDATE>20120922</CTDATE>
+      <CHTYPE>1</CHTYPE>
+      <SAREA1>New Zealand</SAREA1>
+      <NREGN1>North Island</NREGN1>
+      <NREGN2>West Coast</NREGN2>
+      <CTITL1>Kaipara Harbour</CTITL1>
+      <PUBCON>New Zealand</PUBCON>
+      <PUBDAT>19951001</PUBDAT>
+      <EDNUMB>20180401</EDNUMB>
+      <EDDATE>20180401</EDDATE>
+      <LTSTNM>2021039</LTSTNM>
+      <CHTCOM>LINZ-v3.0</CHTCOM>
+      <PRODGRP>1</PRODGRP>
+      <PRODTMPLT>Paper Chart / Paper Chart</PRODTMPLT>
+      <chtlnk/>
+      <chtsts>Layout</chtsts>
+      <TYPE_NAME>Paper Chart</TYPE_NAME>
+      <VERSION>1.0</VERSION>
+      <external>0</external>
+      <CHART_SHEET_LIST>
+        <CHART_SHEET_LIST_ITEM>
+          <PPRSHT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <TSHEET>0</TSHEET>
+            <PPSIZE>28</PPSIZE>
+            <PWIDTH>720</PWIDTH>
+            <PHEIGH>1100</PHEIGH>
+            <MARGNL>0</MARGNL>
+            <MARGNR>0</MARGNR>
+            <MARGNT>0</MARGNT>
+            <MARGNB>0</MARGNB>
+            <LAYOUT>0</LAYOUT>
+            <SHEET1>Kaipara Harbour</SHEET1>
+            <SHEET2>Title 2</SHEET2>
+            <CMMNTS>This is a sheet</CMMNTS>
+            <SHEET_PANEL_LIST>
+              <SHEET_PANEL_LIST_ITEM>
+                <PPRPAN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="5827">
+                  <PANNAM>Kaipara Harbour</PANNAM>
+                  <GRTINT>5</GRTINT>
+                  <PANORD>1</PANORD>
+                  <frcdsp>False</frcdsp>
+                  <PANNUM>1</PANNUM>
+                  <PANPOS>35,60</PANPOS>
+                  <PSCALE>75000</PSCALE>
+                  <PANTYP>2</PANTYP>
+                  <DEPUNT>MR</DEPUNT>
+                  <DEPDAT>ALAT</DEPDAT>
+                  <HGHTUN>MR</HGHTUN>
+                  <HGHTDA>MHWS</HGHTDA>
+                  <sdgfc>SGSL</sdgfc>
+                  <sdgsz>1.45</sdgsz>
+                  <annoid>LINZ_Annotations v3.0</annoid>
+                  <CRS>PROJCS["WG84 / MERCATOR",
+    GEOGCS["WG84",
+        DATUM["WG84",
+            SPHEROID["WG84",6378137,298.2572201434241],
+            TOWGS84[0,0,0,0,0,0,0]],
+        PRIMEM["Greenwich",0,
+            AUTHORITY["EPSG","8901"]],
+        UNIT["degree (supplier to define representation)",0.0174532925199433,
+            AUTHORITY["EPSG","9122"]]],
+    PROJECTION["Caris_Mercator"],
+    PARAMETER["central_meridian",0.000000],
+    PARAMETER["latitude_of_origin",-36.333333],
+    PARAMETER["false_easting",0],
+    PARAMETER["false_northing",0],
+    UNIT["metre",1,
+        AUTHORITY["EPSG","9001"]]]</CRS>
+                  <PROFILE>7</PROFILE>
+                  <sndrnd>IHO</sndrnd>
+                  <sourceCRS_wkt>GEOGCS["WGS 84",
+    DATUM["World Geodetic System 1984",
+        SPHEROID["WGS 84",6378137,298.2572235629972,
+            AUTHORITY["EPSG","7030"]],
+        AUTHORITY["EPSG","6326"]],
+    PRIMEM["Greenwich",0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["degree (supplier to define representation)",0.0174532925199433,
+        AUTHORITY["EPSG","9122"]],
+    AUTHORITY["EPSG","4326"]]</sourceCRS_wkt>
+                  <sourceCRS_description>Default HPD source CRS</sourceCRS_description>
+                  <BOUNDARY_MIN>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-36.6833333 173.9166667</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MIN>
+                  <BOUNDARY_MAX>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-36.0 174.4583333</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MAX>
+                </PPRPAN>
+              </SHEET_PANEL_LIST_ITEM>
+              <SHEET_PANEL_LIST_ITEM>
+                <PPRPAN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="5829">
+                  <PANNAM>NTM Panel - Kaipara Harbour</PANNAM>
+                  <PANORD>3</PANORD>
+                  <frcdsp>False</frcdsp>
+                  <PANNUM>3</PANNUM>
+                  <PANPOS>35,60</PANPOS>
+                  <PSCALE>75000</PSCALE>
+                  <DEPUNT>M</DEPUNT>
+                  <DEPDAT>Approx LAT</DEPDAT>
+                  <HGHTUN>M</HGHTUN>
+                  <HGHTDA>MHWS</HGHTDA>
+                  <sdgfc>SGSL</sdgfc>
+                  <sdgsz>1.45</sdgsz>
+                  <annoid>LINZ_Annotations</annoid>
+                  <CRS>PROJCS["WG84 / MERCATOR",
+    GEOGCS["WG84",
+        DATUM["WG84",
+            SPHEROID["WG84",6378137,298.2572201434241],
+            TOWGS84[0,0,0,0,0,0,0]],
+        PRIMEM["Greenwich",0,
+            AUTHORITY["EPSG","8901"]],
+        UNIT["degree (supplier to define representation)",0.0174532925199433,
+            AUTHORITY["EPSG","9122"]]],
+    PROJECTION["Caris_Mercator"],
+    PARAMETER["central_meridian",0.000000],
+    PARAMETER["latitude_of_origin",-36.333333],
+    PARAMETER["false_easting",0],
+    PARAMETER["false_northing",0],
+    UNIT["metre",1,
+        AUTHORITY["EPSG","9001"]]]</CRS>
+                  <PROFILE>7</PROFILE>
+                  <sndrnd>Default</sndrnd>
+                  <sourceCRS_wkt>GEOGCS["WGS 84",
+    DATUM["World Geodetic System 1984",
+        SPHEROID["WGS 84",6378137,298.2572235629972,
+            AUTHORITY["EPSG","7030"]],
+        AUTHORITY["EPSG","6326"]],
+    PRIMEM["Greenwich",0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["degree (supplier to define representation)",0.0174532925199433,
+        AUTHORITY["EPSG","9122"]],
+    AUTHORITY["EPSG","4326"]]</sourceCRS_wkt>
+                  <sourceCRS_description>Default HPD source CRS</sourceCRS_description>
+                  <BOUNDARY_MIN>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-36.6833333 173.9166667</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MIN>
+                  <BOUNDARY_MAX>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-36.0 174.4583333</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MAX>
+                </PPRPAN>
+              </SHEET_PANEL_LIST_ITEM>
+              <SHEET_PANEL_LIST_ITEM>
+                <PPRPAN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="5831">
+                  <PANNAM>Wairoa River</PANNAM>
+                  <GRTINT>5</GRTINT>
+                  <PANORD>2</PANORD>
+                  <frcdsp>False</frcdsp>
+                  <PANNUM>2</PANNUM>
+                  <PANPOS>510.932411000,874.705328000</PANPOS>
+                  <PSCALE>75000</PSCALE>
+                  <PANTYP>4</PANTYP>
+                  <DEPUNT>MR</DEPUNT>
+                  <DEPDAT>ALAT</DEPDAT>
+                  <HGHTUN>MR</HGHTUN>
+                  <HGHTDA>MHWS</HGHTDA>
+                  <sdgfc>SGSL</sdgfc>
+                  <sdgsz>1.45</sdgsz>
+                  <annoid>LINZ_Annotations v3.0</annoid>
+                  <CRS>PROJCS["WG84 / MERCATOR",
+    GEOGCS["WG84",
+        DATUM["WG84",
+            SPHEROID["WG84",6378137,298.2572201434241],
+            TOWGS84[0,0,0,0,0,0,0]],
+        PRIMEM["Greenwich",0,
+            AUTHORITY["EPSG","8901"]],
+        UNIT["degree (supplier to define representation)",0.0174532925199433,
+            AUTHORITY["EPSG","9122"]]],
+    PROJECTION["Caris_Mercator"],
+    PARAMETER["central_meridian",0.000000],
+    PARAMETER["latitude_of_origin",-36.333333],
+    PARAMETER["false_easting",0],
+    PARAMETER["false_northing",0],
+    UNIT["metre",1,
+        AUTHORITY["EPSG","9001"]]]</CRS>
+                  <PROFILE>7</PROFILE>
+                  <sndrnd>IHO</sndrnd>
+                  <sourceCRS_wkt>GEOGCS["WGS 84",
+    DATUM["World Geodetic System 1984",
+        SPHEROID["WGS 84",6378137,298.2572235629972,
+            AUTHORITY["EPSG","7030"]],
+        AUTHORITY["EPSG","6326"]],
+    PRIMEM["Greenwich",0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["degree (supplier to define representation)",0.0174532925199433,
+        AUTHORITY["EPSG","9122"]],
+    AUTHORITY["EPSG","4326"]]</sourceCRS_wkt>
+                  <sourceCRS_description>Default HPD source CRS</sourceCRS_description>
+                  <BOUNDARY_MIN>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-36.05 173.8333333</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MIN>
+                  <BOUNDARY_MAX>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-35.925 173.9666667</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MAX>
+                </PPRPAN>
+              </SHEET_PANEL_LIST_ITEM>
+              <SHEET_PANEL_LIST_ITEM>
+                <PPRPAN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="5833">
+                  <PANNAM>NTM Panel - Wairoa River</PANNAM>
+                  <GRTINT>5</GRTINT>
+                  <PANORD>4</PANORD>
+                  <frcdsp>False</frcdsp>
+                  <PANNUM>4</PANNUM>
+                  <PANPOS>510.932411000,874.705328000</PANPOS>
+                  <PSCALE>75000</PSCALE>
+                  <PANTYP>4</PANTYP>
+                  <DEPUNT>MR</DEPUNT>
+                  <DEPDAT>ALAT</DEPDAT>
+                  <HGHTUN>MR</HGHTUN>
+                  <HGHTDA>MHWS</HGHTDA>
+                  <sdgfc>SGSL</sdgfc>
+                  <sdgsz>1.45</sdgsz>
+                  <annoid>LINZ_Annotations</annoid>
+                  <CRS>PROJCS["WG84 / MERCATOR",
+    GEOGCS["WG84",
+        DATUM["WG84",
+            SPHEROID["WG84",6378137,298.2572201434241],
+            TOWGS84[0,0,0,0,0,0,0]],
+        PRIMEM["Greenwich",0,
+            AUTHORITY["EPSG","8901"]],
+        UNIT["degree (supplier to define representation)",0.0174532925199433,
+            AUTHORITY["EPSG","9122"]]],
+    PROJECTION["Caris_Mercator"],
+    PARAMETER["central_meridian",0.000000],
+    PARAMETER["latitude_of_origin",-36.333333],
+    PARAMETER["false_easting",0],
+    PARAMETER["false_northing",0],
+    UNIT["metre",1,
+        AUTHORITY["EPSG","9001"]]]</CRS>
+                  <PROFILE>7</PROFILE>
+                  <sndrnd>Default</sndrnd>
+                  <sourceCRS_wkt>GEOGCS["WGS 84",
+    DATUM["World Geodetic System 1984",
+        SPHEROID["WGS 84",6378137,298.2572235629972,
+            AUTHORITY["EPSG","7030"]],
+        AUTHORITY["EPSG","6326"]],
+    PRIMEM["Greenwich",0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["degree (supplier to define representation)",0.0174532925199433,
+        AUTHORITY["EPSG","9122"]],
+    AUTHORITY["EPSG","4326"]]</sourceCRS_wkt>
+                  <sourceCRS_description>Default HPD source CRS</sourceCRS_description>
+                  <BOUNDARY_MIN>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-36.05 173.8333333</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MIN>
+                  <BOUNDARY_MAX>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-35.925 173.9666667</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MAX>
+                </PPRPAN>
+              </SHEET_PANEL_LIST_ITEM>
+              <SHEET_PANEL_LIST_ITEM>
+                <PPRPAN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="5904">
+                  <PANNAM>Source Data Panel - Kaipara Harbour</PANNAM>
+                  <PANORD>5</PANORD>
+                  <frcdsp>False</frcdsp>
+                  <PANNUM>5</PANNUM>
+                  <PANPOS>440.62,981.98</PANPOS>
+                  <PSCALE>900000</PSCALE>
+                  <DEPUNT>M</DEPUNT>
+                  <DEPDAT>Approx LAT</DEPDAT>
+                  <HGHTUN>M</HGHTUN>
+                  <HGHTDA>MHWS</HGHTDA>
+                  <sdgfc>SGSL</sdgfc>
+                  <sdgsz>1.45</sdgsz>
+                  <annoid>LINZ_Annotations v3.0</annoid>
+                  <CRS>PROJCS["WG84 / MERCATOR",
+    GEOGCS["WG84",
+        DATUM["WG84",
+            SPHEROID["WG84",6378137,298.2572201434241],
+            TOWGS84[0,0,0,0,0,0,0]],
+        PRIMEM["Greenwich",0,
+            AUTHORITY["EPSG","8901"]],
+        UNIT["degree (supplier to define representation)",0.0174532925199433,
+            AUTHORITY["EPSG","9122"]]],
+    PROJECTION["Caris_Mercator"],
+    PARAMETER["central_meridian",0.000000],
+    PARAMETER["latitude_of_origin",-36.333333],
+    PARAMETER["false_easting",0],
+    PARAMETER["false_northing",0],
+    UNIT["metre",1,
+        AUTHORITY["EPSG","9001"]]]</CRS>
+                  <PROFILE>7</PROFILE>
+                  <sndrnd>IHO</sndrnd>
+                  <sourceCRS_wkt>GEOGCS["WGS 84",
+    DATUM["World Geodetic System 1984",
+        SPHEROID["WGS 84",6378137,298.2572235629972,
+            AUTHORITY["EPSG","7030"]],
+        AUTHORITY["EPSG","6326"]],
+    PRIMEM["Greenwich",0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["degree (supplier to define representation)",0.0174532925199433,
+        AUTHORITY["EPSG","9122"]],
+    AUTHORITY["EPSG","4326"]]</sourceCRS_wkt>
+                  <sourceCRS_description>Default HPD source CRS</sourceCRS_description>
+                  <BOUNDARY_MIN>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-36.6833334 173.9166667</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MIN>
+                  <BOUNDARY_MAX>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-36.0 174.4583334</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MAX>
+                </PPRPAN>
+              </SHEET_PANEL_LIST_ITEM>
+              <SHEET_PANEL_LIST_ITEM>
+                <PPRPAN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="5906">
+                  <PANNAM>Source Data Panel - Wairoa River</PANNAM>
+                  <PANORD>6</PANORD>
+                  <frcdsp>False</frcdsp>
+                  <PANNUM>6</PANNUM>
+                  <PANPOS>480.53,1049.81</PANPOS>
+                  <PSCALE>900000</PSCALE>
+                  <DEPUNT>M</DEPUNT>
+                  <DEPDAT>Approx LAT</DEPDAT>
+                  <HGHTUN>M</HGHTUN>
+                  <HGHTDA>MHWS</HGHTDA>
+                  <sdgfc>SGSL</sdgfc>
+                  <sdgsz>1.45</sdgsz>
+                  <annoid>LINZ_Annotations v3.0</annoid>
+                  <CRS>PROJCS["WG84 / MERCATOR",
+    GEOGCS["WG84",
+        DATUM["WG84",
+            SPHEROID["WG84",6378137,298.2572201434241],
+            TOWGS84[0,0,0,0,0,0,0]],
+        PRIMEM["Greenwich",0,
+            AUTHORITY["EPSG","8901"]],
+        UNIT["degree (supplier to define representation)",0.0174532925199433,
+            AUTHORITY["EPSG","9122"]]],
+    PROJECTION["Caris_Mercator"],
+    PARAMETER["central_meridian",0.000000],
+    PARAMETER["latitude_of_origin",-36.333333],
+    PARAMETER["false_easting",0],
+    PARAMETER["false_northing",0],
+    UNIT["metre",1,
+        AUTHORITY["EPSG","9001"]]]</CRS>
+                  <PROFILE>7</PROFILE>
+                  <sndrnd>IHO</sndrnd>
+                  <sourceCRS_wkt>GEOGCS["WGS 84",
+    DATUM["World Geodetic System 1984",
+        SPHEROID["WGS 84",6378137,298.2572235629972,
+            AUTHORITY["EPSG","7030"]],
+        AUTHORITY["EPSG","6326"]],
+    PRIMEM["Greenwich",0,
+        AUTHORITY["EPSG","8901"]],
+    UNIT["degree (supplier to define representation)",0.0174532925199433,
+        AUTHORITY["EPSG","9122"]],
+    AUTHORITY["EPSG","4326"]]</sourceCRS_wkt>
+                  <sourceCRS_description>Default HPD source CRS</sourceCRS_description>
+                  <BOUNDARY_MIN>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-36.05 173.8333333</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MIN>
+                  <BOUNDARY_MAX>
+                    <gml:Point srsName="urn:ogc:def:crs:EPSG::4326">
+                      <gml:pos>-35.9250001 173.9666662</gml:pos>
+                    </gml:Point>
+                  </BOUNDARY_MAX>
+                </PPRPAN>
+              </SHEET_PANEL_LIST_ITEM>
+            </SHEET_PANEL_LIST>
+          </PPRSHT>
+        </CHART_SHEET_LIST_ITEM>
+      </CHART_SHEET_LIST>
+    </PPRCHT>
+  </AFFECTED_CHART_LIST>
+</NTC_PUBLICATION>

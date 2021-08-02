@@ -1,0 +1,39 @@
+Product editions with the existing name:
+
+PRODUCT_ID    EDITION NAME                                                                                                                                                                                                                                            
+---------- ---------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+       851          1 South Island test 08-07-20                                                                                                                                                                                                                      
+
+Script will rename 'South Island test 08-07-20' to 'South Island'.
+Successful rename from 'South Island test 08-07-20' to 'South Island'
+
+
+PL/SQL procedure successfully completed.
+
+Product editions with the new name:
+
+PRODUCT_ID    EDITION NAME                                                                                                                                                                                                                                            
+---------- ---------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+       851          1 South Island                   
+	   
+	   
+	   
+	   Product editions with the existing name:
+
+PRODUCT_ID    EDITION NAME                                                                                                                                                                                                                                            
+---------- ---------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+       822          1 Chatham Island SR test                                                                                                                                                                                                                          
+
+Script will rename 'Chatham Island SR test' to 'Chatham Island'.
+Successful rename from 'Chatham Island SR test' to 'Chatham Island'
+
+
+PL/SQL procedure successfully completed.
+
+Product editions with the new name:
+
+PRODUCT_ID    EDITION NAME                                                                                                                                                                                                                                            
+---------- ---------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+       822          1 Chatham Island     
+	   
+	   
